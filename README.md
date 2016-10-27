@@ -1,8 +1,9 @@
 List of Android Tutorial
 ======================
 
-**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui).**
-**List of Android Libraries is [here](https://github.com/wasabeef/awesome-android-ui).**
+* [UI/UX Library is](https://github.com/wasabeef/awesome-android-ui). 
+* [List of Android Libraries is](https://github.com/wasabeef/awesome-android-ui). 
+* [Tutorial](https://guides.codepath.com/android)
 
 ###Index
 * [Best practices](#best-practices)
@@ -11,7 +12,9 @@ List of Android Tutorial
 * [Firebase](#firebase)
 * [Animations](#animations)
 * [UI](#ui)
+* [View](#view)
 * [Test](#test)
+* [Library](#library)
 * [Other](#other)
 
 ## Best practices
@@ -38,7 +41,13 @@ List of Android Tutorial
 ## UI
 [Material Intro Screen - Filip Skowron ](https://medium.com/tangoagency/material-intro-screen-for-android-apps-c4317fbac923#.676l8le25)  
 
+## View
+[ViewPager with FragmentPagerAdapterEdit PagePage History](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
+
 ## Test
-[Awesome pre-launch reports for Alpha/Beta APK’s - AruLNadhaN](https://medium.com/@AruLNadhaN/awesome-pre-launch-reports-for-alpha-beta-apks-9960ac5c403c#.99nxv0vy0)  
+[Awesome pre-launch reports for Alpha/Beta APK’s - AruLNadhaN](https://medium.com/@AruLNadhaN/awesome-pre-launch-reports-for-alpha-beta-apks-9960ac5c403c#.99nxv0vy0) 
+
+## Library
+[Top 10 Android libraries - Zeeshan Ahmed](http://www.startingandroid.com/top-10-android-libraries-every-android-developer-should-know-about/)  
 
 
